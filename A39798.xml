@@ -123,7 +123,10 @@
             </p>
             <p>
                <hi>LONDON,</hi>Printed by<hi> Iohn Legatt.</hi> 1641.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:49277:2" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
          <div type="table_of_contents">
             <pb facs="tcp:49277:2"/>
